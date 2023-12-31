@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-A-SAIADITHYAA
-- 👀 I’m interested in Tech And impact of Tech in infra development
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning RUST
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (saiadithyaa2306@gmail.com)
