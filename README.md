@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-a-saiadithyaa" alt="m-a-saiadithyaa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sai_45_tech" target="blank"><img src="https://img.shields.io/twitter/follow/@sai_45_tech?logo=twitter&style=for-the-badge" alt="@sai_45_tech" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@sai_45_tech" target="blank"><img src="https://img.shields.io/twitter/follow/sai_45_tech?logo=twitter&style=for-the-badge" alt="@sai_45_tech" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
