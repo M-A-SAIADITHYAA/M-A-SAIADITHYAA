@@ -34,6 +34,9 @@ You can click the Preview link to take a look at your changes.
 ## PR's I'm proud of
 
 https://github.com/arihantcodes/spectrum-ui/pull/74
+https://github.com/arihantcodes/spectrum-ui/pull/75
+
+##
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-a-saiadithyaa&show_icons=true&locale=en&layout=compact" alt="m-a-saiadithyaa" /></p>
 
